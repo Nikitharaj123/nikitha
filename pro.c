@@ -5,14 +5,14 @@ int main()
     scanf("%d",&n);
     if(n<0)
     {
-        printf("negative");
+        printf("Negative");
      }
     else if(n>0)
     {
-        printf("positive");
+        printf("Positive");
      }
     else
     {
-        printf("zero");
+        printf("Zero");
     }
 }   
